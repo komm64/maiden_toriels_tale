@@ -33,7 +33,7 @@ Toriel panics. Just then, she is rescued by R, who happened to be passing by. Th
 
 **[Chapter 2: A Fleeting Hope and a Creeping Shadow]**
 As their relationship deepens, Toriel's father, at the strong request of the royal family, invites R and her family to their home for a dinner party. Though reluctant at first, he agrees upon seeing his daughter's happy face.
-In a peaceful atmosphere, R's father reveals a shocking truth to Toriel's father: humans have discovered the hidden potential of monsters through inhumane "SOUL" experiments. Fearing that power, he says, war will eventually be inevitable.
+After the dinner, Toriel's father invites R's father into his study. Away from the children, the two men speak in a heavy atmosphere. Toriel, by chance, overhears their conversation through a crack in the door. R's father was revealing a shocking truth: that humans had discovered the hidden potential of monsters through inhumane "SOUL" experiments, and that, fearing this power, a war would eventually be inevitable.
 R's family is pro-monster and expresses their desire to do everything they can to avoid the war. That night, both families promise to go camping together on Mt. Ebott during the next vacation to deepen their friendship.
 
 **[Chapter 3: The Sanctuary of Mt. Ebott]**
