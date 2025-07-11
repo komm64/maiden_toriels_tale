@@ -36,21 +36,26 @@ As their relationship deepens, Toriel's father, at the strong request of the roy
 In a peaceful atmosphere, R's father reveals a shocking truth to Toriel's father: humans have discovered the hidden potential of monsters through inhumane "SOUL" experiments. Fearing that power, he says, war will eventually be inevitable.
 R's family is pro-monster and expresses their desire to do everything they can to avoid the war. That night, both families promise to go camping together on Mt. Ebott during the next vacation to deepen their friendship.
 
-**[Chapter 3: The Vow of Mt. Ebott]**
+**[Chapter 3: The Sanctuary of Mt. Ebott]**
 However, public opinion did not wait. The tension between humans and monsters grew daily, and the exchange student program was forcibly terminated halfway through. The promise of a camping trip on Mt. Ebott became an unfulfilled dream.
 On the last day of the program, a disheartened Toriel and R head to Mt. Ebott alone without telling anyone. They wanted to fulfill their promise, even if just a little. But the mountain weather is fickle; the sun sets, and they lose their way. To escape the cold rain that begins to fall, the two take shelter in a nearby cave.
-As they take off their jackets to dry their wet clothes, Toriel sees them: countless painful scars carved into R's back and arms.
+As they take off their jackets to dry their wet clothes, Toriel sees them: countless painful scars carved into R's back and arms. They were not merely from violence, but were horrific traces of abuse that trampled human dignity, including sexual assault.
 Being pro-monster, R had been the target of horrific bullying in human society. Behind her calm demeanor, she had been enduring a hellish suffering all alone.
 A monster's SOUL is made of "love," "hope," and "compassion." Imagining the unspeakable pain R must have experienced, Toriel is overcome with shock and begins to hyperventilate.
 At that moment, R, who had never shown tears before, reveals her emotions for the first time, clings to Toriel, and weeps silently. Toriel, too, could not stop her tears.
-R speaks. "Humans harbor a terrible cruelty within their hearts. But still, they have so many wonderful parts too." She pleads with Toriel to remain an ally to humans, and then adds, "Half-joking, half-serious. I wish I could have given you my SOUL."
+Despite the heavy rain falling outside the cave, as if responding to the communion of their souls, the forest animals quietly gather at the cave's entrance, watching over them. The cave, which should have been dark and cold, is filled with a mysterious warmth and a soft light.
+There, they comfort each other's wounds and, as if seeking the only salvation in a desperate world, they become sexually intimate. It was a painful yet sacred union to cleanse their defiled bodies and bind their shattered souls as one.
+As dawn breaks, R speaks. "Humans harbor a terrible cruelty within their hearts. But still, they have so many wonderful parts too." She pleads with Toriel to remain an ally to humans, and then adds, "Half-joking, half-serious. I wish I could have given you my SOUL."
 
-**[Epilogue: A Future Blacked Out]**
-Afterward, they are found by a search party and are separated after a tight embrace. R returns to the human world, and their bond is maintained through letters.
-But as the world situation continues to deteriorate, the letters arriving from R have more and more parts blacked out by censors. Then one day, after a letter arrives completely blacked out, her correspondence ceases entirely.
+**[Note on Expression Policy in Game Development]**
+The game itself will not directly depict this sexual union. The horrific truth suggested by R's scars and the symbolic direction in the cave (the gathering animals, the light filling the cave, the sacred music) will be used to convey to the player's imagination that their souls have connected on the deepest level.
+
+**[Final Chapter: A Future Blacked Out]**
+Afterward, they are found by a search party, separated after a tight embrace, and R returns to the human world. Their bond is maintained through correspondence.
+But as the world situation deteriorates, the letters arriving from R have more and more parts blacked out by censors. Then one day, after a letter arrives completely blacked out, her correspondence ceases entirely.
 Shortly after, word reaches Toriel's father that R and her parents have been assassinated by extremist anti-monster humans.
 The moment she hears the news, the sound drains from Toriel's world. She screams and runs out of the house, dashing off to nowhere in particular.
-The senseless death of her best friend. A promise that couldn't be kept. The end of her pure-hearted attempt to believe in the goodness of humans. In this instant, her intense and twisted obsession with humanity is sealed.
+The senseless death of her best friend. A promise that couldn't be kept. The end of her pure-hearted attempt to believe in the goodness of humans. And the vow of souls they exchanged in the cave. In this instant, her intense love for humanity—a desire to "protect them no matter what"—and her twisted obsession—a "vow to never let anyone hurt them again"—are sealed.
 
 The story closes as the curtains of an all-out war between humans and monsters are about to be raised.
 
