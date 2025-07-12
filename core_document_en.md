@@ -62,7 +62,7 @@ Afterward, they are found by a search party, separated after a tight embrace, an
 But as the world situation deteriorates, the letters arriving from R have more and more parts blacked out by censors. Then one day, after a letter arrives completely blacked out, her correspondence ceases entirely.
 Shortly after, word reaches Toriel's father that R and her parents have been assassinated by extremist anti-monster humans.
 The moment she hears the news, the sound drains from Toriel's world. She screams and runs out of the house, dashing off to nowhere in particular.
-The senseless death of her best friend. A promise that couldn't be kept. The end of her pure-hearted attempt to believe in the goodness of humans. And the vow of souls they exchanged in the cave. In this instant, her intense love for humanity—a desire to "protect them no matter what"—and her twisted obsession—a "vow to never let anyone hurt them again"—are sealed.
+The senseless death of her best friend. The end of her pure-hearted attempt to believe in the goodness of humans. And the vow of souls they exchanged in the cave. In this instant, her intense love for humanity—a desire to "protect them no matter what"—and her twisted obsession—a "vow to never let anyone hurt them again"—are sealed.
 
 The story closes as the curtains of an all-out war between humans and monsters are about to be raised.
 
