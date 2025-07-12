@@ -39,16 +39,23 @@ R's family is pro-monster and expresses their desire to do everything they can t
 **[Chapter 3: The Sanctuary of Mt. Ebott]**
 However, public opinion did not wait. The tension between humans and monsters grew daily, and the exchange student program was forcibly terminated halfway through. The promise of a camping trip on Mt. Ebott became an unfulfilled dream.
 On the last day of the program, a disheartened Toriel and R head to Mt. Ebott alone without telling anyone. They wanted to fulfill their promise, even if just a little. But the mountain weather is fickle; the sun sets, and they lose their way. To escape the cold rain that begins to fall, the two take shelter in a nearby cave.
-As they take off their jackets to dry their wet clothes, Toriel sees them: countless painful scars carved into R's back and arms. They were not merely from violence, but were horrific traces of abuse that trampled human dignity, including sexual assault.
+As they take off their jackets to dry their wet clothes, Toriel sees them: countless painful scars carved into R's back and arms. The nature of the scars suggests horrific abuse that goes beyond simple violence, trampling on one's dignity.
 Being pro-monster, R had been the target of horrific bullying in human society. Behind her calm demeanor, she had been enduring a hellish suffering all alone.
 A monster's SOUL is made of "love," "hope," and "compassion." Imagining the unspeakable pain R must have experienced, Toriel is overcome with shock and begins to hyperventilate.
 At that moment, R, who had never shown tears before, reveals her emotions for the first time, clings to Toriel, and weeps silently. Toriel, too, could not stop her tears.
 Despite the heavy rain falling outside the cave, as if responding to the communion of their souls, the forest animals quietly gather at the cave's entrance, watching over them. The cave, which should have been dark and cold, is filled with a mysterious warmth and a soft light.
-There, they comfort each other's wounds and, as if seeking the only salvation in a desperate world, they become sexually intimate. It was a painful yet sacred union to cleanse their defiled bodies and bind their shattered souls as one.
+There, they comfort each other's wounds. In the mysterious warmth of the cave, they share a profound, intimate moment to bind their shattered souls as one. It is a connection that transcends words, both painful and sacred.
 As dawn breaks, R speaks. "Humans harbor a terrible cruelty within their hearts. But still, they have so many wonderful parts too." She pleads with Toriel to remain an ally to humans, and then adds, "Half-joking, half-serious. I wish I could have given you my SOUL."
 
-**[Note on Expression Policy in Game Development]**
-The game itself will not directly depict this sexual union. The horrific truth suggested by R's scars and the symbolic direction in the cave (the gathering animals, the light filling the cave, the sacred music) will be used to convey to the player's imagination that their souls have connected on the deepest level.
+### **Author's Note: On Expression Policy and Narrative Ambiguity**
+
+To enhance thematic depth and allow for reader interpretation, the following points must be intentionally left ambiguous in the narrative:
+
+*   **The specific nature of R's abuse:** While it is clear R suffered horrific abuse, it should never be explicitly confirmed whether this included sexual assault. The focus should be on the trauma's impact, leaving the precise details to the reader's inference.
+*   **The physical intimacy between Toriel and R:** Their bond in the cave is the emotional climax of the story. However, whether this connection became a physical, sexual union must remain ambiguous. The narrative should portray a deep, soul-level intimacy that does not require explicit physical confirmation.
+
+**Expression in the Game:**
+In line with the above, these events will not be directly depicted in the game. The connection in the cave, specifically, will be conveyed through the horrific truth suggested by R's scars and symbolic direction (the gathering animals, the light filling the cave, sacred music). This approach expresses that their souls have connected on the deepest level, while leaving the specific nature of the events to the player's imagination.
 
 **[Final Chapter: A Future Blacked Out]**
 Afterward, they are found by a search party, separated after a tight embrace, and R returns to the human world. Their bond is maintained through correspondence.
