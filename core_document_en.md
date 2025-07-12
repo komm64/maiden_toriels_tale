@@ -71,3 +71,11 @@ At the beginning or end of the game, the following conversation is inserted in t
 "Look. That's mom when she was young."
 "...Don't mess this up."
 "Leave it to me. You're the best partner."
+
+---
+
+### **6. Game System**
+
+*   **Genre:** Visual Novel
+*   **Gameplay:** This work is a linear story with no choices (a kinetic novel). The player will focus mainly on reading the story, deeply experiencing the characters' emotions and the world's events. This is envisioned in a format similar to the sound novel *Higurashi: When They Cry*.
+*   **Development Policy:** Considering development resource constraints, the top priority is to fully depict a single, linear story. In the future, if time and resources allow, adding elements where the story branches based on player choices will be considered.
